@@ -1,0 +1,6 @@
+Question 1:
+	I would check to see if the library has comunity support and updated regulary , once I make sure that it has enough support and it does not have a lot of issues than I would use it. However if the library was updated long time ago than I would implement it myself
+Question 2:
+	I would review my code again to make sure that there is no issues . After that I would inform my supervisor that I have finished all of my tasks for the current sprint and ask if I can start working on the tasks from the new sprint
+Question 3:
+	I would use MongoDB so that we do not have to worry about schema and we can build an index on any field we need and if we can add any field we want it on the go. Plus we can nest the document with additional data without creating any relations. 
